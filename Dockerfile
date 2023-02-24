@@ -8,27 +8,3 @@ RUN cp -rf html/* .
 RUN rm -rf html
 EXPOSE 80
 CMD httpd -DFOREGROUND
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
